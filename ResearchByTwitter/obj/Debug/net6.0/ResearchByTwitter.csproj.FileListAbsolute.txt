@@ -1,0 +1,30 @@
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.AssemblyInfo.cs
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\bin\Debug\net6.0\ResearchByTwitter.exe
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\bin\Debug\net6.0\ResearchByTwitter.deps.json
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\bin\Debug\net6.0\ResearchByTwitter.runtimeconfig.json
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\bin\Debug\net6.0\ResearchByTwitter.dll
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\bin\Debug\net6.0\ResearchByTwitter.pdb
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.dll
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\obj\Debug\net6.0\refint\ResearchByTwitter.dll
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.pdb
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.genruntimeconfig.cache
+C:\Users\USER\Desktop\תרגיל 1\ResearchByTwitter\obj\Debug\net6.0\ref\ResearchByTwitter.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\bin\Debug\net6.0\ResearchByTwitter.exe
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\bin\Debug\net6.0\ResearchByTwitter.deps.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\bin\Debug\net6.0\ResearchByTwitter.runtimeconfig.json
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\bin\Debug\net6.0\ResearchByTwitter.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\bin\Debug\net6.0\ResearchByTwitter.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\obj\Debug\net6.0\refint\ResearchByTwitter.dll
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.pdb
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\obj\Debug\net6.0\ResearchByTwitter.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\פרויקטים\מאירה יעבץ\תרגיל\ResearchByTwitter\obj\Debug\net6.0\ref\ResearchByTwitter.dll
