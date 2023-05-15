@@ -32,8 +32,18 @@ namespace Service.AlgorithmAndFunctions
         public async Task<int[]> howManySicks(DateDTO dateD)
         {
             await init();
-            int[] numberOfSicks = new int[30];
-            for(int i = 1;i <= 30; i++)
+            int numOfDays = 0;
+            switch(dateD.month)
+            {
+                case 2:numOfDays=28; break;
+                case 4:
+                case 6:
+                case 9:
+                case 11: numOfDays = 33;break;
+                default:numOfDays = 31; break;
+            }
+            int[] numberOfSicks = new int[numOfDays];
+            for(int i = 1;i <= numOfDays; i++)
             {
                 DateTime date= new DateTime(dateD.year, dateD.month, i);
                 foreach(MemberDTO member in listOfMembers)
