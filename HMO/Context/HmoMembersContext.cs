@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
-using Repository.Entities;
 using Repository;
+using Repository.Entities;
 
 namespace Context;
 
@@ -29,10 +29,13 @@ public partial class HmoMembersContext : DbContext,IContext
     {
         modelBuilder.Entity<Member>(entity =>
         {
-            entity
-                .HasNoKey()
-                .ToTable("Member");
+            entity.HasKey(e => e.Id).HasName("pk_constraint_name");
 
+            entity.ToTable("Member");
+
+            entity.Property(e => e.Id)
+                .HasMaxLength(9)
+                .HasColumnName("id");
             entity.Property(e => e.Adress)
                 .HasMaxLength(50)
                 .HasColumnName("adress");
@@ -48,9 +51,6 @@ public partial class HmoMembersContext : DbContext,IContext
             entity.Property(e => e.FullName)
                 .HasMaxLength(50)
                 .HasColumnName("fullName");
-            entity.Property(e => e.Id)
-                .HasMaxLength(9)
-                .HasColumnName("id");
             entity.Property(e => e.MobilePhone)
                 .HasMaxLength(10)
                 .HasColumnName("mobilePhone");
