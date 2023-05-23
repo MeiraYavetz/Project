@@ -1,12 +1,15 @@
 ﻿using Common.DTOs;
 using Microsoft.Extensions.DependencyInjection;
+using Repository.Entities;
 using Service.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+
 
 namespace Service.AlgorithmAndFunctions
 { 
@@ -32,18 +35,12 @@ namespace Service.AlgorithmAndFunctions
         public async Task<int[]> howManySicks(DateDTO dateD)
         {
             await init();
-            int numOfDays = 0;
-            switch(dateD.month)
-            {
-                case 2:numOfDays=28; break;
-                case 4:
-                case 6:
-                case 9:
-                case 11: numOfDays = 33;break;
-                default:numOfDays = 31; break;
-            }
+            
+            int numOfDays = DateTime.DaysInMonth(dateD.year, dateD.month);
+            
             int[] numberOfSicks = new int[numOfDays];
-            for(int i = 1;i <= numOfDays; i++)
+           
+            for (int i = 1;i <= numOfDays; i++)
             {
                 DateTime date= new DateTime(dateD.year, dateD.month, i);
                 foreach(MemberDTO member in listOfMembers)
