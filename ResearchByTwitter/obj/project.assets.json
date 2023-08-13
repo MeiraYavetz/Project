@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\הגשה\\תרגיל\\ResearchByTwitter\\ResearchByTwitter.csproj",
+      "projectUniqueName": "D:\\פרויקט עתידה\\HMOProject\\ResearchByTwitter\\ResearchByTwitter.csproj",
       "projectName": "ResearchByTwitter",
-      "projectPath": "D:\\הגשה\\תרגיל\\ResearchByTwitter\\ResearchByTwitter.csproj",
+      "projectPath": "D:\\פרויקט עתידה\\HMOProject\\ResearchByTwitter\\ResearchByTwitter.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\הגשה\\תרגיל\\ResearchByTwitter\\obj\\",
+      "outputPath": "D:\\פרויקט עתידה\\HMOProject\\ResearchByTwitter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
